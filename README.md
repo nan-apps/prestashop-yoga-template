@@ -1,0 +1,1 @@
+## Template customizado para prestashop
